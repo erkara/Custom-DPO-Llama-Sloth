@@ -29,8 +29,7 @@ Both notebooks are fairly detailed, outlining all the keys details in pre/post t
 
 ## Why This Repo Matters
 
-It is common to rely on publicly available datasets, use default training parameters, and quickly move forward. While this approach is convenient, I think it is a good practice to try to create your own data at least once in a life time(: This is probably what you will face one day if you work an LLM practitioner. 
-So, this repo details how to start from scratch—creating datasets, fine-tuning a model, aligning it to user preferences, and evaluating its performance—all in one place.
+It’s common to rely on publicly available datasets, use default training parameters, and quickly move forward. While this is convenient, I believe it’s a good practice to create your own dataset at least once in your lifetime. :) If you’re working as an LLM practitioner, this is something you’re likely to encounter sooner or later. This repo walks you through the entire process—starting from scratch, creating datasets, fine-tuning a model, aligning it to user preferences, and evaluating its performance—all in one place.
 
 Hope you enjoy!
 Erdi Kara: erdi_kara88@hotmail.com
