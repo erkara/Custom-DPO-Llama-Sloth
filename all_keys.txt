@@ -1,0 +1,4 @@
+OPENAI_API_KEY="your key here"
+HF_TOKEN="your key here"
+WANDB_API_KEY="your key here"
+
